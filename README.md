@@ -7,9 +7,9 @@ Decided to make this app after continous reports of big companies violating our 
 
 This project is still in very early development
 
-###strctly focused on communication between small groups and communities.
+### strctly focused on communication between small groups and communities.
 
-###To-Do
+### To-Do
 1. Make a web-app with proper front end. with css , js and stuff
 2. create a gun.js backend
 3. link front and back
@@ -19,7 +19,7 @@ This project is still in very early development
 7. create login panels with database systems
 8. publish
 
-##Planned Feature List
+## Planned Feature List
 
 1. Web Interface.
 2. RTC communication
